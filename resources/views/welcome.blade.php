@@ -30,11 +30,11 @@
                  <div class="menu">
                     <ul class="menu-lists">
                         <li class="menu-list">
-                            <a href="" class="menu-link"  target="_blank">Offre Touristique</a>  <i class="flaticon-link"></i>
+                            <a href="https://tourismerdc.cd/" class="menu-link"  target="_blank">Offre Touristique</a>  <i class="flaticon-link"></i>
                         </li>
 
                         <li class="menu-list">
-                            <a href="" class="menu-link"  target="_blank">Corporate</a>  <i class="flaticon-link"></i>
+                            <a href="https://officetourisme.cd/" class="menu-link"  target="_blank">Corporate</a>  <i class="flaticon-link"></i>
                         </li>
                     </ul>
                  </div>
@@ -212,7 +212,7 @@
                         <h2 class="rs-items-sub-title">Institutionnels</h2>
 
                         <div class="rs-items-corporate-container">
-                            <div class="rs-items-corporate-icon">
+                            <a href="https://www.facebook.com/share/15nniVBRbD/?mibextid=wwXIfr" class="rs-items-corporate-icon">
                                  <div class="rs-items-corporate-icon-left">
                                    <i class="fa-brands fa-facebook-f"></i>
                                 </div>
@@ -220,8 +220,8 @@
                                     <h2 class="sub-title">Facebook</h2>
                                     <span class="s-items-corporate-icon-right-desc">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit, consectetur.</span>
                                 </div>
-                            </div>
-                            <div class="rs-items-corporate-icon">
+                             </a>
+                            <a href="https://www.instagram.com/info_tourisme_rdcongo1?igsh=YWsxYTc2OGdod29t" class="rs-items-corporate-icon">
                                  <div class="rs-items-corporate-icon-left">
                                     <i class="fa-brands fa-instagram"></i>
                                 </div>
@@ -229,8 +229,8 @@
                                     <h2 class="sub-title">Instagram</h2>
                                     <span class="s-items-corporate-icon-right-desc">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit, consectetur.</span>
                                 </div>
-                            </div>
-                            <div class="rs-items-corporate-icon">
+                             </a>
+                            <a href="https://www.linkedin.com/in/office-national-du-tourisme-rdc-919647274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" class="rs-items-corporate-icon">
                                  <div class="rs-items-corporate-icon-left">
                                    <i class="fa-brands fa-linkedin-in"></i>
                                 </div>
@@ -238,8 +238,8 @@
                                     <h2 class="sub-title">Linkedin</h2>
                                     <span class="s-items-corporate-icon-right-desc">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit, consectetur.</span>
                                 </div>
-                            </div>
-                            <div class="rs-items-corporate-icon">
+                            </a>
+                            <a href="https://x.com/congordtourism?s=11" class="rs-items-corporate-icon">
                                  <div class="rs-items-corporate-icon-left">
                                    <i class="fa-brands fa-x-twitter"></i>
                                 </div>
@@ -247,7 +247,7 @@
                                     <h2 class="sub-title">X</h2>
                                     <span class="s-items-corporate-icon-right-desc">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit, consectetur.</span>
                                 </div>
-                            </div>
+                             </a>
                         </div>
                     </div>
                     <div class="rs-items rs-phone-img">
@@ -274,7 +274,7 @@
 
                         <h2 class="rs-items-sub-title">Offre touristique</h2>
                         <div class="rs-items-corporate-container">
-                             <div class="rs-items-corporate-icon">
+                             <a  href="" class="rs-items-corporate-icon">
                                  <div class="rs-items-corporate-icon-left">
                                    <i class="fa-brands fa-facebook-f"></i>
                                 </div>
@@ -282,8 +282,9 @@
                                     <h2 class="sub-title">Facebook</h2>
                                     <span class="s-items-corporate-icon-right-desc">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit, consectetur.</span>
                                 </div>
-                            </div>
-                            <div class="rs-items-corporate-icon">
+                           </a>
+
+                            <a href="" class="rs-items-corporate-icon">
                                  <div class="rs-items-corporate-icon-left">
                                     <i class="fa-brands fa-instagram"></i>
                                 </div>
@@ -291,16 +292,19 @@
                                     <h2 class="sub-title">Instagram</h2>
                                     <span class="s-items-corporate-icon-right-desc">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit, consectetur.</span>
                                 </div>
-                            </div>
-                            <div class="rs-items-corporate-icon">
+                            </a>
+
+
+                            <a href="https://www.tiktok.com/@officetourismerdc?_t=ZM-8u2jzYBvTp1&_r=1" class="rs-items-corporate-icon">
                                  <div class="rs-items-corporate-icon-left">
                                   <i class="fa-brands fa-tiktok"></i>
                                 </div>
                                 <div class="rs-items-corporate-icon-right">
                                     <h2 class="sub-title">Tiktok</h2>
-                                    <span class="s-items-corporate-icon-right-desc">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit, consectetur.</span>
+                                    <span class="s-items-corporate-icon-right-desc">Explorez l’essence de la RDC : nature, sites touristiques et événements culturels.</span>
                                 </div>
-                            </div>
+                            </a>
+
                             
                         </div>
                     </div>
@@ -327,15 +331,15 @@
             </div>
             <div class="footer-content-item">
 
-                <h1 class="section-title">Contacts</h1>
+                <h1 class="section-title contacts">Contacts</h1>
             </div>
             <div class="footer-content-item">
 
                  <div class="footer-content-item-container">
                     <div><i class="fi fi-sr-phone-call"></i> <i class="fa-solid fa-phone-volume"></i></div>
                     <div>
-                        <p>+243 123 456 789</p>
-                        <p>+243 123 456 789</p>
+                        <p>+243 973 524 123</p>
+                        <p>info@tourismerdc.cd</p>
                     </div>
                 </div>
             </div>
