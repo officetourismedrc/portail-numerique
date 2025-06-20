@@ -117,7 +117,7 @@
                                     <span>Corporate de l'ONT</span>
                                 </div>
                                 <div class="mbc-card-item">
-                                    <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, ratione!</span>
+                                    <span>Promotion et développement du tourisme en mettant en valeur ses richesses culturelles et naturelles</span>
                                 </div>
                             </div>
                         </div>
@@ -131,7 +131,7 @@
                                     <span>Fonds de Promotion du Tourisme (FPT)</span>
                                 </div>
                                 <div class="mbc-card-item">
-                                    <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, ratione!</span>
+                                    <span>Initiative établie pour soutenir financièrement les actions de promotion et de développement touristique</span>
                                 </div>
                             </div>
                         </div>
@@ -145,7 +145,7 @@
                                     <span>52-52</span>
                                 </div>
                                 <div class="mbc-card-item">
-                                    <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, ratione!</span>
+                                    <span>52 semaines, 52 événements : ne manquez rien en RDC – festivals, événements et soirées éclatantes.</span>
                                 </div>
                             </div>
                         </div>
@@ -190,9 +190,12 @@
                     <div class="qsn-text">
                         <h1 class="section_title">Qui sommes nous</h1>
                         <div>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita natus accusantium ad?</p>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit exercitationem id quisquam laudantium corrupti explicabo eos deserunt enim facilis! Quas?</p>
-                       </div>
+                
+                        <p> L’Office National du Tourisme est l’organe officiel chargé de promouvoir et de valoriser l’image touristique de notre pays.  </p> 
+                        <p> Notre mission est de développer l’offre touristique, d’encourager les investissements dans le secteur, et de faire rayonner nos richesses culturelles, naturelles et patrimoniales à l’échelle nationale et internationale. </p> 
+                        <p> Nous travaillons en collaboration avec les acteurs publics et privés du tourisme pour créer une expérience authentique, attractive et durable pour les visiteurs L’Office incarne l’engagement de notre pays à faire du tourisme un levier de croissance économique et de valorisation culturelle. </p>
+                    
+                    </div>
                     </div>
                 </div>
 
@@ -218,7 +221,7 @@
                                 </div>
                                 <div class="rs-items-corporate-icon-right">
                                     <h2 class="sub-title">Facebook</h2>
-                                    <span class="s-items-corporate-icon-right-desc">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit, consectetur.</span>
+                                    <span class="s-items-corporate-icon-right-desc">Actualités officielles, événements, sécurité touristique et acteurs d’exception. Restez connectés.</span>
                                 </div>
                              </a>
                             <a href="https://www.instagram.com/info_tourisme_rdcongo1?igsh=YWsxYTc2OGdod29t" class="rs-items-corporate-icon">
@@ -227,7 +230,7 @@
                                 </div>
                                 <div class="rs-items-corporate-icon-right">
                                     <h2 class="sub-title">Instagram</h2>
-                                    <span class="s-items-corporate-icon-right-desc">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit, consectetur.</span>
+                                    <span class="s-items-corporate-icon-right-desc">Actualités & événements, sécurité et talents du tourisme congolais. Restez connectés ! #TourismeRDC #VoyageSûr</span>
                                 </div>
                              </a>
                             <a href="https://www.linkedin.com/in/office-national-du-tourisme-rdc-919647274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" class="rs-items-corporate-icon">
@@ -236,7 +239,7 @@
                                 </div>
                                 <div class="rs-items-corporate-icon-right">
                                     <h2 class="sub-title">Linkedin</h2>
-                                    <span class="s-items-corporate-icon-right-desc">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit, consectetur.</span>
+                                    <span class="s-items-corporate-icon-right-desc">Tourisme RDC : actualités sectorielles, événements stratégiques, protocoles de sécurité et talents émergents.</span>
                                 </div>
                             </a>
                             <a href="https://x.com/congordtourism?s=11" class="rs-items-corporate-icon">
@@ -245,7 +248,7 @@
                                 </div>
                                 <div class="rs-items-corporate-icon-right">
                                     <h2 class="sub-title">X</h2>
-                                    <span class="s-items-corporate-icon-right-desc">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit, consectetur.</span>
+                                    <span class="s-items-corporate-icon-right-desc">Touristes informés : Voyagez sereins, conseils sécurité, événements captivants et talents locaux. Restez connectés.</span>
                                 </div>
                              </a>
                         </div>
@@ -280,7 +283,7 @@
                                 </div>
                                 <div class="rs-items-corporate-icon-right">
                                     <h2 class="sub-title">Facebook</h2>
-                                    <span class="s-items-corporate-icon-right-desc">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit, consectetur.</span>
+                                    <span class="s-items-corporate-icon-right-desc">Découvrez la RDC : nature préservée, culture riche et aventures inoubliables.</span>
                                 </div>
                            </a>
 
@@ -290,7 +293,7 @@
                                 </div>
                                 <div class="rs-items-corporate-icon-right">
                                     <h2 class="sub-title">Instagram</h2>
-                                    <span class="s-items-corporate-icon-right-desc">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit, consectetur.</span>
+                                    <span class="s-items-corporate-icon-right-desc">Plongez au cœur de la RDC : panoramas majestueux, festivals culturels et sites historiques. #VisitRDC #BeautéCongolaise</span>
                                 </div>
                             </a>
 
