@@ -103,7 +103,7 @@
                                     <span>Offre Touristique</span>
                                 </div>
                                 <div class="mbc-card-item">
-                                    <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, ratione!</span>
+                                    <span>Explorez la République Démocratique du Congo : forêts, faune et cultures. Vivez aventures passionnantes, découvertes exceptionnelles.</span>
                                 </div>
                             </div>
                         </div>
