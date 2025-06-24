@@ -57,11 +57,12 @@
                 <div class="hero-section-desc-container-fix">
 
             <div class="hero-section-title">
-                 <p> Bienvenue dans le portail numerique de <br>l'Office National du Tourisme RD Congo</p>  
+                 <p> Bienvenue sur le portail numérique de <br>L’Office National du Tourisme de la République Démocratique du Congo.</p>  
+                  
             </div>
             <div class="hero-section-sub-title">
 
-                Trouvez ici toutes les plateformes media sociaux <br> et sites internets ayant traits a l'Office National du Tourisme RD Congo
+             Trouvez ici toutes les plateformes, réseaux sociaux et sites internet liés à l’Office National du Tourisme de la République Démocratique du Congo.
             </div>
             <div class="hero-section-cta">
                 <form action="" class="cta-hero">
@@ -206,7 +207,7 @@
 
     <section class="section section-reseau-sociaux section-separator">
         <div class="container container-reseaux-sociaux">
-            <h1 class="section-title">Decouvrez et abonnez-vous à nos plateformes</h1>
+            <h1 class="section-title">Découvrez nos plateformes et abonnez-vous dès maintenant</h1>
 
             <div class="content reseaux-sociaux-content">
                 <div class="reseaux-sociaux-outer">
