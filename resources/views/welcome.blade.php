@@ -277,7 +277,7 @@
 
                         <h2 class="rs-items-sub-title">Offre touristique</h2>
                         <div class="rs-items-corporate-container">
-                             <a  href="" class="rs-items-corporate-icon">
+                             <a  href="https://www.facebook.com/share/1CXEhbNSmi/?mibextid=wwXIfr" class="rs-items-corporate-icon">
                                  <div class="rs-items-corporate-icon-left">
                                    <i class="fa-brands fa-facebook-f"></i>
                                 </div>
@@ -287,7 +287,7 @@
                                 </div>
                            </a>
 
-                            <a href="" class="rs-items-corporate-icon">
+                            <a href="https://www.instagram.com/officenationaltourisme_rdcongo?igsh=MXNhZW5nOGg1a3l4dA==" class="rs-items-corporate-icon">
                                  <div class="rs-items-corporate-icon-left">
                                     <i class="fa-brands fa-instagram"></i>
                                 </div>
