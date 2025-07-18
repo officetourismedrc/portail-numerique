@@ -20,7 +20,7 @@
 
     </head>
    <body class="body">
-     
+          <div id="hero-sentinel" style="position:absolute; top:0; width:1px; height:1px;"></div>
   <header class="header">
     <section class="section nav-section">
         <div class="container nav-container">

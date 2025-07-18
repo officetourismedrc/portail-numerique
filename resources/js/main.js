@@ -46,5 +46,34 @@ document.addEventListener('DOMContentLoaded', ()=>{
 //     yoyo: true
 //   });
 
+const sentinel = document.getElementById('hero-sentinel');
+const navbar = document.querySelector('header');
+
+const observer = new IntersectionObserver(([entry]) => {
+  // SENTINEL OUT OF VIEW → user scrolled down
+  if (!entry.isIntersecting && !navbar.classList.contains('scrolled')) {
+    // 1) add white background immediately
+    navbar.classList.add('scrolled');
+    // 2) trigger slide-in animation
+    navbar.classList.add('slide-in');
+    navbar.addEventListener('animationend', function inEnd() {
+      // remove only the animation class after it's done
+      navbar.classList.remove('slide-in');
+      navbar.removeEventListener('animationend', inEnd);
+    }, { once: true });
+
+  // SENTINEL BACK INTO VIEW → user scrolled up
+  } else if (entry.isIntersecting && navbar.classList.contains('scrolled')) {
+    // 1) trigger slide-out
+    navbar.classList.add('slide-out');
+    navbar.addEventListener('animationend', function outEnd() {
+      // 2) once done, remove both white bg and animation class
+      navbar.classList.remove('scrolled', 'slide-out');
+      navbar.removeEventListener('animationend', outEnd);
+    }, { once: true });
+  }
+}, { threshold: 0 });
+
+observer.observe(sentinel);
 
 });
