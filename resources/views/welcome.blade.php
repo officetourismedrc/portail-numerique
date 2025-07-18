@@ -95,7 +95,7 @@
                
                 <div class="middle-bottom">
                     <div class="middle-bottom-content">
-                        <div class="middle-bottom-content-card">
+                        <a href="https://tourismerdc.cd/" class="middle-bottom-content-card">
                             <div class="mbc-card-container">
                                 <div class="mbc-card-item">
                                     <img src="{{ asset('/images/lordinateur 1.svg')}}" alt="">
@@ -107,9 +107,9 @@
                                     <span>Explorez la République Démocratique du Congo : forêts, faune et cultures. Vivez aventures passionnantes, découvertes exceptionnelles.</span>
                                 </div>
                             </div>
-                        </div>
+                        </a>
 
-                        <div class="middle-bottom-content-card">
+                        <a href="https://officetourisme.cd/" class="middle-bottom-content-card">
                             <div class="mbc-card-container">
                                 <div class="mbc-card-item">
                                      <img src="{{ asset('/images/lordinateur 1.svg') }}" alt="">
@@ -121,9 +121,9 @@
                                     <span>Promotion et développement du tourisme en mettant en valeur ses richesses culturelles et naturelles</span>
                                 </div>
                             </div>
-                        </div>
+</a>
 
-                        <div class="middle-bottom-content-card">
+                        <a href="https://fpt.officetourisme.cd/" class="middle-bottom-content-card">
                             <div class="mbc-card-container">
                                 <div class="mbc-card-item">
                                     <img src="{{ asset('/images/lordinateur 1.svg') }}" alt="">
@@ -135,9 +135,9 @@
                                     <span>Initiative établie pour soutenir financièrement les actions de promotion et de développement touristique</span>
                                 </div>
                             </div>
-                        </div>
+</a>
 
-                        <div class="middle-bottom-content-card">
+                        <a href="https://52-52.officetourisme.cd/" class="middle-bottom-content-card">
                             <div class="mbc-card-container">
                                 <div class="mbc-card-item">
                                      <img src="{{ asset('/images/lordinateur 1.svg') }}" alt="">
@@ -149,7 +149,7 @@
                                     <span>52 semaines, 52 événements : ne manquez rien en RDC – festivals, événements et soirées éclatantes.</span>
                                 </div>
                             </div>
-                        </div>
+</a>
                     </div>
                 </div>
             </div>

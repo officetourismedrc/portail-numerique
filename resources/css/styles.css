@@ -514,6 +514,7 @@ ul{
     font-family: var(--body-font);
     font-weight: 800;
     font-size: 1.8rem;
+    line-height:2rem;
 }
 
 /* reseau sociaux */
@@ -828,7 +829,7 @@ ul{
     justify-self: right;
     
 
-    transform:translateY(-5rem);
+    transform:translateY(-9rem);
     width: 100%;
     
 }
