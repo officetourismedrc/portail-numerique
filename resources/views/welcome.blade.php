@@ -98,7 +98,7 @@
                         <a href="https://tourismerdc.cd/" class="middle-bottom-content-card">
                             <div class="mbc-card-container">
                                 <div class="mbc-card-item">
-                                    <img src="{{ asset('/images/lordinateur 1.svg')}}" alt="">
+                                    <img src="{{ asset('/images/offre.svg')}}" alt="">
                                 </div>
                                 <div class="mbc-card-item">
                                     <span>Offre Touristique</span>
@@ -112,7 +112,7 @@
                         <a href="https://officetourisme.cd/" class="middle-bottom-content-card">
                             <div class="mbc-card-container">
                                 <div class="mbc-card-item">
-                                     <img src="{{ asset('/images/lordinateur 1.svg') }}" alt="">
+                                     <img src="{{ asset('/images/corporate.svg') }}" alt="">
                                 </div>
                                 <div class="mbc-card-item">
                                     <span>Corporate de l'ONT</span>
@@ -126,7 +126,7 @@
                         <a href="https://fpt.officetourisme.cd/" class="middle-bottom-content-card">
                             <div class="mbc-card-container">
                                 <div class="mbc-card-item">
-                                    <img src="{{ asset('/images/lordinateur 1.svg') }}" alt="">
+                                    <img src="{{ asset('/images/fpt.svg') }}" alt="">
                                 </div>
                                 <div class="mbc-card-item">
                                     <span>Fonds de Promotion du Tourisme (FPT)</span>
@@ -140,7 +140,7 @@
                         <a href="https://52-52.officetourisme.cd/" class="middle-bottom-content-card">
                             <div class="mbc-card-container">
                                 <div class="mbc-card-item">
-                                     <img src="{{ asset('/images/lordinateur 1.svg') }}" alt="">
+                                     <img src="{{ asset('/images/52052.svg') }}" alt="">
                                 </div>
                                 <div class="mbc-card-item">
                                     <span>52-52</span>

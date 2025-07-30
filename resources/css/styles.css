@@ -508,7 +508,7 @@ header.slide-out {
 
 .middle-bottom-content-card:hover .mbc-card-item span{
 
-     color: red;
+     color: #24A19D;
 }
 
 
@@ -691,7 +691,7 @@ header.slide-out {
 
 .rs-items-corporate-icon:hover .rs-items-corporate-icon-right .sub-title,
 .rs-items-corporate-icon:hover .rs-items-corporate-icon-right-desc{
-    color: red;
+    color: #24A19D;
 }
 
 .rs-phone-img{
