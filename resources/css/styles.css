@@ -466,6 +466,10 @@ header.slide-out {
     align-items: center;
     justify-content: center;
 }
+.mbc-card-container  .mbc-card-item:nth-child(1) img{
+
+    width: 70px;
+}
 .mbc-card-container .mbc-card-item:nth-child(2) span{
     font-family: var(--body-font);
     color: var(--text-color);
@@ -509,6 +513,26 @@ header.slide-out {
 .middle-bottom-content-card:hover .mbc-card-item span{
 
      color: #24A19D;
+}
+
+.middle-bottom-content .middle-bottom-content-card:nth-child(1) .mbc-card-container .mbc-card-item:nth-child(2)::after{
+
+    background-color:#1663CB;
+}
+
+.middle-bottom-content .middle-bottom-content-card:nth-child(2) .mbc-card-container .mbc-card-item:nth-child(2)::after{
+
+    background-color:#24A19D ;
+}
+
+.middle-bottom-content .middle-bottom-content-card:nth-child(3) .mbc-card-container .mbc-card-item:nth-child(2)::after{
+
+    background-color:#114499;
+}
+
+.middle-bottom-content .middle-bottom-content-card:nth-child(4) .mbc-card-container .mbc-card-item:nth-child(2)::after{
+
+    background-color:#1663CB;
 }
 
 
