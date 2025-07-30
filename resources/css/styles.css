@@ -175,6 +175,14 @@ ul{
     color: white;
 
 }
+.menu-list:hover{
+    background-color: white;
+    
+}
+.menu-list:hover .menu-link{
+    color: black;
+    
+}
 header.scrolled{
     background-color: white;
     
@@ -885,6 +893,14 @@ header.slide-out {
     color: white;
 
 }
+.menu-list:hover{
+    background-color: white;
+    
+}
+.menu-list:hover .menu-link{
+    color: black;
+    
+}
 .hero-section-title p{
 
    
@@ -905,6 +921,14 @@ header.slide-out {
 }
 
 @media screen and (min-width : 770px) {
+    .menu-list:hover{
+    background-color: white;
+    
+}
+.menu-list:hover .menu-link{
+    color: black;
+    
+}
     
     .hero-section-title p{
 
